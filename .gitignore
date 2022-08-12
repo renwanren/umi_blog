@@ -6,3 +6,5 @@
 /src/.umi-production
 /dist
 /.yarn
+/.env
+/.pnpm.*
